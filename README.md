@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tofara Mususa</h1>
-<h3 align="center">Software Engineering Student at 42AbuDhabi</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 - 🎥 I’m currently building: **Pluton Web App**
 
