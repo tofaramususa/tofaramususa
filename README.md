@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tofara Mususa</h1>
-<h3 align="center">Passionate Software Engineer | 42 Abu Dhabi Student</h3>
+<h3 align="center">Passionate Software Engineer | 42 Abu Dhabi</h3>
 
 - 🚀 Currently working on: **Pluton Web App**
 
@@ -13,7 +13,7 @@
 
 ### About Me
 
-Hey! I'm Tofara, a dedicated software engineer and 42 student based in Abu Dhabi. My journey involves crafting innovative solutions and pushing the boundaries of technology.
+Hey! I'm Tofara, a dedicated software engineer based in Abu Dhabi. My journey involves crafting innovative solutions and pushing the boundaries of technology.
 
 ### Current Projects
 
