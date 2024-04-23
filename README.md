@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 
-- 📚 Education: **42 Abu Dhabi**
+- 📚 Education: **42 Abu Dhabi + Self-taught**
 
 - 🌱 Learning: **CS, Web, AI**
 
