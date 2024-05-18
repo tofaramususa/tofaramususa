@@ -4,7 +4,7 @@
 
 - 📚 Education: **Ecole 42(Abu Dhabi) + Self-taught**
 
-- 🌱 Learning: **CS, Web, AI**
+- 🌱 Focus: **CS, Web, AI**
 
 ### About Me
 
