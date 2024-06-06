@@ -1,6 +1,6 @@
 # Tofara Mususa's Github
 
-I'm a software engineer from Harare, Zimbabwe based in Abu Dhabi, UAE. I am passionate about building solutions full-stack. I focus on learning and building web applications and artificial intelligence apps.
+I'm a software engineer from Harare, Zimbabwe based in Abu Dhabi, UAE. I am passionate about building solutions full-stack. I focus on building web applications combined with artificial intelligence.
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tofara-mususa/)
 - 🔗 Also on [Instagram](https://www.instagram.com/tofara_m)
