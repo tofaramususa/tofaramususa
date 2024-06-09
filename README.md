@@ -7,13 +7,13 @@ I'm a software engineer from Harare, Zimbabwe based in Abu Dhabi, UAE. I am pass
 
 ## Education
 
-  🚀 Ecole 42 { Software Engineering at 42AbuDhabi. }  
-  🚀 St George's College { A'levels. Mathematics, Physics, Chemistry, Accounting }    
-  🚀 Autodidact { Self-teaching through study, research and experimentation }    
+- Ecole 42 { Software Engineering at 42AbuDhabi. }  
+- St George's College { A'levels. Mathematics, Physics, Chemistry, Accounting }    
+- Autodidact { Self-teaching through study, research and experimentation }    
 
 ## Current Languages && Technologies
 
- 🚀 C, C++, Javascript, Python   
- 🚀 Next JS, React, Tailwind CSS   
- 🚀 Langchain   
- 🚀 Django    
+ - C, C++, Javascript, Python   
+ - Next JS, React, Tailwind CSS   
+ - Langchain   
+ - Django    
