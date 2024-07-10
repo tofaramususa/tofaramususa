@@ -2,7 +2,7 @@
 
 I'm a software engineer from Harare, Zimbabwe based in Abu Dhabi, UAE. I am passionate about building solutions full-stack. I focus on building web applications combined with artificial intelligence.
 
-   🌐 Check out my personal website [tofaramususa.me](https://www.tofaramususa.me)    
+   🌐 Check out my personal website [tofaramususa.me](https://www.tofaramususa.me) or try my terminal version [bash.tofaramususa.me](https://www.bash.tofaramususa.me)    
    📞 Connect with me on [LinkedIn](https://www.linkedin.com/in/tofara-mususa/)   
    📞 Also on [Instagram](https://www.instagram.com/tofara_m)   
 
