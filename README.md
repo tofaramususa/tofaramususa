@@ -2,7 +2,7 @@
 I'm a software engineer with passion and professional experience building full-stack + AI systems. I'm based in Dubai.
 
 ### Languages
- - C, C++, Javascript, Python   
+ - C, C++, Python, Javascript, Typescript
 
 ### Tools && Technologies
  - Frontend: Next JS, React, Tailwind CSS   
