@@ -1,20 +1,21 @@
-# Tofara Mususa's Github
+## 👋 Hello, I'm Tofara,
+I'm a software engineer with passion and professional experience building full-stack + AI systems. I'm based in Dubai.
 
-I'm a software engineer passionate about building solutions full-stack. I focus on building web applications combined with artificial intelligence.
+### Languages
+ - C, C++, Javascript, Python   
 
-   🌐 Check out my personal website [bash.tofaramususa.me](https://bash.tofaramususa.me/)       
-   📞 Connect with me on [LinkedIn](https://www.linkedin.com/in/tofara-mususa/)        
-   📞 Also on [Instagram](https://www.instagram.com/tofara_m)   
+### Tools && Technologies
+ - Frontend: Next JS, React, Tailwind CSS   
+ - AI: Langchain, LangGraph, CrewAI
+ - Backend: FastAPI, Nginx, Django, Node
+ - DevOps: Docker, Github Actions(CI/CD)
+ - and many more that solved the problem...
 
-## Education
-
+### Education
+- Autodidact { Self-teaching through study, practical research and experimentation }    
 - Ecole 42 { Software Engineering at 42AbuDhabi. }  
 - St George's College { A'levels. Mathematics, Physics, Chemistry, Accounting }    
-- Autodidact { Self-teaching through study, research and experimentation }    
 
-## Current Languages && Technologies
+  [`personal website`](https://bash.tofaramususa.me/) • [`linkedin`](https://www.linkedin.com/in/tofara-mususa/) • [`twitter`](https://x.com/tofaramususa1)
 
- - C, C++, Javascript, Python   
- - Next JS, React, Tailwind CSS   
- - Langchain   
- - Django    
+
