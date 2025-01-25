@@ -9,7 +9,7 @@ I'm a software engineer with passion and professional experience building full-s
  - AI: Langchain, LangGraph, CrewAI
  - Backend: FastAPI, Nginx, Django, Node
  - DevOps/CI-CD: Docker, Github Actions
- and many more that solved the problem...
+ - and many more that solved the problem...
 
 ### Education
 - Autodidact { Self-teaching through study, practical research and experimentation }
