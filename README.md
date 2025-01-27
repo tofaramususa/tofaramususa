@@ -16,6 +16,6 @@ I'm a software engineer with passion and professional experience building full-s
 - Ecole 42 { Software Engineering at 42AbuDhabi. }
 - St George's College { A'levels. Mathematics, Physics, Chemistry, Accounting }
 
-  [`personal website`](https://bash.tofaramususa.me/) • [`linkedin`](https://www.linkedin.com/in/tofara-mususa/) • [`twitter`](https://x.com/tofaramususa1)
+  [`personal website`](https://bash.tofaramususa.me/) • [`linkedin`](https://www.linkedin.com/in/tofara-mususa/) • [`twitter`](https://x.com/tofarax)
 
 
