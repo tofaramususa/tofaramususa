@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Tofara,
+## 👋 Hello, I'm Tofara
 I'm a software engineer with passion and professional experience building full-stack + AI systems. I'm based in Dubai, coming from Zimbabwe.
 
 ### Languages
