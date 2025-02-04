@@ -5,10 +5,10 @@ I'm a software engineer with passion and professional experience building full-s
  - C, C++, Python, Javascript, Typescript
 
 ### Tools && Technologies
- - Frontend: Next JS, React, Tailwind CSS   
- - AI: Langchain, LangGraph, CrewAI
- - Backend: FastAPI, Nginx, Django, Node
- - DevOps/CI-CD: Docker, Github Actions
+ - Frontend: React, NextJS(FullStack), Tailwind CSS, Framer Motion  
+ - AI: Agentic architectures, Langchain, LangGraph, CrewAI
+ - Backend: FastAPI, Nginx, Django, Node, 
+ - DevOps/CI-CD: Docker, Github Actions, Jenkins, AWS
  - and many more that solved the problem...
 
 ### Education
