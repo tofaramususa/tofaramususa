@@ -2,7 +2,7 @@
 I'm a software engineer with passion and professional experience building full-stack + AI systems. I'm based in Dubai, coming from Zimbabwe.
 
 ### Languages
- - C, C++, Python, Javascript, Typescript
+ - C, C++, Python, Typescript, Go
 
 ### Tools && Technologies
  - Frontend: React, NextJS(FullStack), Tailwind CSS, Framer Motion  
