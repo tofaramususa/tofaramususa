@@ -7,7 +7,7 @@ I'm a software engineer with passion and professional experience building full-s
 ### Tools && Technologies
  - Frontend: React, NextJS(FullStack), Tailwind CSS, Framer Motion  
  - AI: Agentic architectures, Langchain, LangGraph, CrewAI
- - Backend: FastAPI, Nginx, Django, Node
+ - Backend: FastAPI, Nginx, Node, Celery, Task Queues, Async Patterns
  - DevOps/CI-CD/Cloud: Docker, Github Actions, Jenkins, AWS, Prometheus, Grafana
  - and many more that solved the problem...
 
