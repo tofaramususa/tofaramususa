@@ -8,8 +8,8 @@ I'm a software engineer with passion and professional experience building full-s
  - Frontend: React, NextJS(FullStack), Tailwind CSS, Framer Motion  
  - AI: Agentic architectures, Langchain, LangGraph, CrewAI
  - Backend: FastAPI, Nginx, Node, Celery, Task Queues, Async Patterns
- - DevOps/CI-CD/Cloud: Docker, Github Actions, Jenkins, AWS, Prometheus, Grafana
- - and many more that solved the problem...
+ - DevOps/CI-CD/Cloud: Docker(Compose/Stack), Cloudfare(Workers), Github Actions, AWS, Prometheus, Grafana
+ - and many more that get the job done...
 
 ### Education
 - Autodidact { Self-teaching through study, practical research and experimentation }
